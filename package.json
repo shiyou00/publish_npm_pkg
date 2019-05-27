@@ -1,0 +1,19 @@
+{
+  "name": "publish_npm_pkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiyou00/publish_npm_pkg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiyou00/publish_npm_pkg/issues"
+  },
+  "homepage": "https://github.com/shiyou00/publish_npm_pkg#readme"
+}
