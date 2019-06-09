@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shiyou00/publish_npm_pkg/issues"
   },
-  "homepage": "https://github.com/shiyou00/publish_npm_pkg#readme"
+  "homepage": "https://github.com/shiyou00/publish_npm_pkg#readme",
+  "devDependencies": {
+    "lodash": "^4.17.11"
+  }
 }
